@@ -1,0 +1,32 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Programador Junior I",
+      "foto": "foto01.png",
+      "descricao": "Necessário conhecimento de PHP, NodeJS, CSS, HTML....",
+      "salario": 2000
+    },
+    {
+      "id": 2,
+      "nome": "Programador Junior II",
+      "foto": "foto02.png",
+      "descricao": "Necessário conhecimento de PHP, NodeJS, CSS, HTML....",
+      "salario": 3000
+    },
+    {
+      "id": 3,
+      "nome": "Programador Senior I",
+      "foto": "foto03.png",
+      "descricao": "Necessário conhecimento de PHP, NodeJS, CSS, HTML....",
+      "salario": 5000
+    },
+    {
+      "nome": "Analista de Sistemas",
+      "foto": "foto03.png",
+      "descricao": "Conhecimento de project, gestão de projetos, gestão de equipes.",
+      "salario": 7000,
+      "id": 4
+    }
+  ]
+}
